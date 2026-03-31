@@ -2,6 +2,8 @@
 
 This project is a simple interactive dashboard built with Streamlit using live weather data from Open-Meteo.
 
+[https://live-weather-dashboard-qcntmbg2yybtsbk5gmvjym.streamlit.app/](https://live-weather-dashboard-qcntmbg2yybtsbk5gmvjym.streamlit.app/)
+
 ## Technologies Used
 
 - Python  
