@@ -13,3 +13,9 @@ This project is a simple interactive dashboard built with Streamlit using live w
 ## How It Works
 
 The app sends a request to the Open-Meteo API to get weather data. The data is then processed using Pandas and displayed in charts and tables. Users can interact with the dashboard using filters in the sidebar.
+
+## 
+
+> *"Reflection answers with some awkward Dad jokes and goofy headers"*  
+
+*Ruslan agai, are you serious?*
